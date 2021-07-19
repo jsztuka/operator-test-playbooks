@@ -1,5 +1,5 @@
 # Operator testing
-
+TEST
 ## Running operator testing playbooks locally
 
 The operator testing can be run locally using the Ansible playbook at `local-test-operator.yml`.
